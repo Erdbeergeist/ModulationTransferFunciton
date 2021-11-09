@@ -1,1 +1,1 @@
-# ModulationTransferFunciton
+# ModulationTransferFunction
